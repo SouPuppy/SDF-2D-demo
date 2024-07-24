@@ -1,0 +1,3 @@
+/Users/soupup/Desktop/SDF 2D demo/build/CMakeFiles/SDFRenderer.dir
+/Users/soupup/Desktop/SDF 2D demo/build/CMakeFiles/edit_cache.dir
+/Users/soupup/Desktop/SDF 2D demo/build/CMakeFiles/rebuild_cache.dir

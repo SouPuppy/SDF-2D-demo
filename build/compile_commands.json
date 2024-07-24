@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/soupup/Desktop/SDF 2D demo/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -isystem /usr/local/Cellar/opencv/4.10.0/include/opencv4 -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/SDFRenderer.dir/main.cpp.o -c \"/Users/soupup/Desktop/SDF 2D demo/main.cpp\"",
+  "file": "/Users/soupup/Desktop/SDF 2D demo/main.cpp",
+  "output": "CMakeFiles/SDFRenderer.dir/main.cpp.o"
+}
+]
